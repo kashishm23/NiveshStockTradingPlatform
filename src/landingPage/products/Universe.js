@@ -10,7 +10,7 @@ function Universe() {
           partner platforms
         </p>
         <div className="col-4 p-3 mt-5">
-          <img src="media/images/smallcaseLogo.png" alt="smallcaseimage" />
+          <img src="media/images/smallcaseLogo.png" alt="smallcase" />
           <p className="text-muted text-small">
             Thematic investing platform that helps you invest in diversified
             baskets of stocks on ETFs.
@@ -18,7 +18,7 @@ function Universe() {
         </div>
         <div className="col-4 p-3 mt-5">
           <img
-            src="media/images/streakLogo.png" alt="streaklogoimage"
+            src="media/images/streakLogo.png" alt="streaklogo"
             style={{ width: "188.5px", height: "45px" }}
           />
           <p className="text-muted text-small">
@@ -28,7 +28,7 @@ function Universe() {
         </div>
         <div className="col-4 p-3 mt-5">
           <img
-            src="media/images/sensibullLogo.svg" alt="sensibullimage"
+            src="media/images/sensibullLogo.svg" alt="sensibull"
             style={{ width: "188.5px", height: "45px" }}
           />
           <p className="text-muted text-small">
@@ -39,7 +39,7 @@ function Universe() {
         </div>
 
         <div className="col-4 p-3 mt-5 mb-3">
-          <img src="media/images/tijori-logo.png" alt="tijoriimage" />
+          <img src="media/images/tijori-logo.png" alt="tijori" />
           <p className="text-muted text-small">
             Investment research platform that offers detailed insights on
             stocks, sectors, supply chains, and more.
@@ -47,7 +47,7 @@ function Universe() {
         </div>
         <div className="col-4 p-3 mt-5 mb-3">
           <img
-            src="media/images/streakLogo.png" alt="streakimage"
+            src="media/images/streakLogo.png" alt="streak"
             style={{ width: "188.5px", height: "45px" }}
           />
           <p className="text-muted text-small">
@@ -57,7 +57,7 @@ function Universe() {
         </div>
         <div className="col-4 p-3 mt-5 mb-3">
           <img
-            src="media/images/dittoLogo.png" alt="dittoimage"
+            src="media/images/dittoLogo.png" alt="ditto"
             style={{ width: "188.5px", height: "35px" }}
           />
            <p className="text-muted text-small">Personalized advice on life

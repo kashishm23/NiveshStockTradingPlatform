@@ -15,7 +15,7 @@ function RightImageContent({
           <a href={learnMore} style={{textDecoration: "none"}}>Learn more<i className="fa fa-long-arrow-right" aria-hidden="true"></i></a>
         </div>
          <div className="col-lg-6 col-sm-12">
-        <img src={imageURL}/>
+        <img src={imageURL} alt="content"/>
         </div>
       </div>
     </div>

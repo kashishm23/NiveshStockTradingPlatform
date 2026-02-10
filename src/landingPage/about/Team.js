@@ -30,16 +30,15 @@ function Team() {
           </p>
           <p> Playing badminton is her zen.</p>
           <p>
-            Connect on{" "}
+            Connect on
             <Link to="/" style={{ textDecoration: "none" }}>
               Homepage
             </Link>
-            /{" "}
-            <a href="" style={{ textDecoration: "none" }}>
+           
+            <a href="/" style={{ textDecoration: "none" }}>
               TradingQnA
-            </a>{" "}
-            /{" "}
-            <a href="" style={{ textDecoration: "none" }}>
+            </a>
+            <a href="/" style={{ textDecoration: "none" }}>
               Twitter
             </a>
           </p>

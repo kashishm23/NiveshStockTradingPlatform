@@ -48,7 +48,7 @@ function ProductsPage() {
         googlePlay=""
         appStore=""
       />
-      <h4 className="text-muted text-center p-5 mt-5">Want to know more about our technology stack? Check out the <a href="" style={{textDecoration: "none"}}>Nivesh.tech</a> blog.</h4>
+      <h4 className="text-muted text-center p-5 mt-5">Want to know more about our technology stack? Check out the <a href="/" style={{textDecoration: "none"}}>Nivesh.tech</a> blog.</h4>
       <Universe />
     </>
   );
